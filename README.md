@@ -1,10 +1,12 @@
-
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/442/992/1001/quote-bruce-lee-motivational-wallpaper-preview.jpg)]
  <h1 align="center">Hola 👋, I'm Anas Siddiqui</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas5550&label=Profile%20views&color=0e75b6&style=flat" alt="anas5550" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas5550" alt="anas5550" /></a> </p>
+
+<img src="https://wallpapercave.com/dwp2x/wp7406306.png" width="600" align="right">
 
 - 🔭 I’m currently working on **Full-Stack (MERN)**
 
